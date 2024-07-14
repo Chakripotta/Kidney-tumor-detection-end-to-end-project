@@ -15,3 +15,18 @@
 [2024-05-19 15:46:25,086: INFO: main: >>>>>> stage Data Injestion stage completed <<<<<<
 
 x==========x]
+[2024-07-14 17:35:09,593: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-14 17:35:09,624: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-14 17:35:09,630: INFO: common: created directory at: artifacts]
+[2024-07-14 17:52:01,866: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-14 17:52:01,884: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-14 17:52:01,888: INFO: common: created directory at: artifacts]
+[2024-07-14 17:52:55,358: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-14 17:52:55,361: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-14 17:52:55,361: INFO: common: created directory at: artifacts]
+[2024-07-14 17:53:02,301: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-14 17:53:02,304: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-14 17:53:02,305: INFO: common: created directory at: artifacts]
+[2024-07-14 17:56:07,809: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-14 17:56:07,811: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-14 17:56:07,812: INFO: common: created directory at: artifacts]
